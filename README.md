@@ -51,13 +51,19 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ## 📊 OBSERVATION AND CALCULATION
+![RExp1 1](https://github.com/user-attachments/assets/eb0b2042-245e-497b-be22-8280abb839a7)
 
-- 
+
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
+
+## TABULATION
+
+![RExp1 2](https://github.com/user-attachments/assets/f4f0afe7-f513-497d-91d9-ceb2261d1ac5)
+
 ## Result
+The fiber optic cable supports approximately 6 modes, and four lower-order LP modes were observed experimentally.
